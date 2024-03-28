@@ -13,5 +13,5 @@ This guessing game is designed to help high school students grasp the basics of 
 
 ```bash
 python guessing_game.py
-
+```
 Have fun :) ! 
