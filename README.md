@@ -1,6 +1,6 @@
 # Guessing Game in Python
 
-Me and @byReema designed this guessing game to help high school students grasp the basics of Python programming. It's part of our 'Code Your Dreams' course, where students learn programming fundamentals in a fun and interactive way.
+I designed this guessing game to help high school students grasp the basics of Python programming. It's part of our 'Code Your Dreams' course, where students learn programming fundamentals in a fun and interactive way.
 
 ## Instructions
 
