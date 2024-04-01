@@ -9,6 +9,9 @@ I designed this guessing game to help high school students grasp the basics of P
 3. Guess a number between 1 and 15.
 4. Keep guessing until you get the right number.
 
+## Team members 
+- [@byReema ](https://github.com/byReema)
+
 ## How to Run
 
 ```bash
